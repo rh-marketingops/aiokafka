@@ -138,7 +138,7 @@ classifiers = [
 
 
 args = dict(
-    name='robinhood-aiokafka',
+    name='nubium-aiokafka',
     version=read_version(),
     description=('Kafka integration with asyncio.'),
     long_description=('This is a temporary fork of aiokafka '
